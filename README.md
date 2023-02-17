@@ -7,3 +7,6 @@ The project was created to demonstrate the developer's programming skills in usi
 HTML was used to create the project's structure, organizing the content and defining the page layout. JavaScript was used for user interactivity with the animated icons.
 
 One of the main features of this project is the use of animated icons in the background, adding a visually appealing and dynamic touch to the page.
+
+Check out the [live demo](https://rafaimn.github.io/Animated-Icons-Background/)!
+
